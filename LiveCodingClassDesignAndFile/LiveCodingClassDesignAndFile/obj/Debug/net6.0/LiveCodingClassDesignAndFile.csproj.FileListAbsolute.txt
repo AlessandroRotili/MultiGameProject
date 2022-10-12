@@ -1,0 +1,15 @@
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\bin\Debug\net6.0\LiveCodingClassDesignAndFile.exe
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\bin\Debug\net6.0\LiveCodingClassDesignAndFile.deps.json
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\bin\Debug\net6.0\LiveCodingClassDesignAndFile.runtimeconfig.json
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\bin\Debug\net6.0\LiveCodingClassDesignAndFile.dll
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\bin\Debug\net6.0\LiveCodingClassDesignAndFile.pdb
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\LiveCodingClassDesignAndFile.csproj.AssemblyReference.cache
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\LiveCodingClassDesignAndFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\LiveCodingClassDesignAndFile.AssemblyInfoInputs.cache
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\LiveCodingClassDesignAndFile.AssemblyInfo.cs
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\LiveCodingClassDesignAndFile.csproj.CoreCompileInputs.cache
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\LiveCodingClassDesignAndFile.dll
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\refint\LiveCodingClassDesignAndFile.dll
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\LiveCodingClassDesignAndFile.pdb
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\LiveCodingClassDesignAndFile.genruntimeconfig.cache
+C:\Users\aroti\source\repos\LiveCodingClassDesignAndFile\LiveCodingClassDesignAndFile\obj\Debug\net6.0\ref\LiveCodingClassDesignAndFile.dll
